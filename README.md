@@ -1,7 +1,7 @@
 # PRAKTIKUM-CSS-DASAR
 Repository untuk Latihan CSS Dasar
 
-1. CSS BACKGROUND ![alt text](https://github.com/AnandaKW/PRAKTIKUM-CSS-DASAR/blob/master/CSS-Background.html)
+1. CSS BACKGROUND ![alt text](https://github.com/AnandaKW/PRAKTIKUM-CSS-DASAR/blob/master/Background.png)
 
 2. CSS Border ![alt text](https://github.com/AnandaKW/PRAKTIKUM-CSS-DASAR/blob/master/Border.png)
 
